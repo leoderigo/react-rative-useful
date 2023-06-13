@@ -1,0 +1,19 @@
+{
+  "name": "react-native-useful",
+  "version": "0.0.1",
+  "description": "React Native useful components",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo A. Derigo",
+  "repository": {
+    "type": "git",
+    "url": "github:leoderigo/react-rative-useful.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">=18.2.0",
+    "react-native": ">=0.71.7"
+  }
+}
